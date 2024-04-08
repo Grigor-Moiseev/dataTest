@@ -20,19 +20,19 @@
       "discountPercentage": 0,
       "price": 599,
       "currency": "GEL",
-      "title": "LG 27\" Ultragear 27GQ50F-B",
+      "title": "LG 27 Ultragear 27GQ50F-B",
       "stock": 25,
       "img": "https://alta.ge/images/thumbnails/270/250/detailed/279/1_1k7r-cf.png.jpg"
     },
     {
       "id": 3,
       "category": "monitor",
-      "brand": "samsung",
+      "brand": "lg",
       "beforeDiscount": 0,
       "discountPercentage": 0,
       "price": 949,
       "currency": "GEL",
-      "title": "LG 27\" Ultragear 27GQ50F-B",
+      "title": "LG 27 Ultragear 27GQ50F-B",
       "stock": 21,
       "img": "https://alta.ge/images/thumbnails/270/250/detailed/262/1_7vxw-88_jf9j-sb.png.jpg"
     },
@@ -343,7 +343,7 @@
       "beforeDiscount": 250,
       "discountPercentage": 24,
       "price": 190,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "ASUS Vivobook Go 15 L510 Thin & Light Laptop Computer",
       "stock": 21,
       "img": "https://i.imgur.com/IBhCeeP.jpg"
@@ -355,7 +355,7 @@
       "beforeDiscount": 300,
       "discountPercentage": 15,
       "price": 255,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "Lenovo 3i Chromebook",
       "stock": 21,
       "img": "https://i.imgur.com/WqyCZJ2.jpg"
@@ -367,7 +367,7 @@
       "beforeDiscount": 280,
       "discountPercentage": 6,
       "price": 262,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "Acer Chromebook Spin 513 Convertible Laptop",
       "stock": 21,
       "img": "https://i.imgur.com/tTKFrvf.jpg"
@@ -379,7 +379,7 @@
       "beforeDiscount": 0,
       "discountPercentage": 0,
       "price": 300,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "Apple iPhone 12 Mini, 64GB, Blue",
       "stock": 21,
       "img": "https://i.imgur.com/ZTwEgIo.jpg"
@@ -391,7 +391,7 @@
       "beforeDiscount": 589,
       "discountPercentage": 39,
       "price": 359,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "Lenovo IdeaPad 3i 14",
       "stock": 21,
       "img": "https://i.imgur.com/BoHqiHi.jpg"
@@ -403,7 +403,7 @@
       "beforeDiscount": 450,
       "discountPercentage": 9,
       "price": 408,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "Apple iPhone 12, 64GB, Red",
       "stock": 21,
       "img": "https://i.imgur.com/ZhlY09i.jpg"
@@ -415,7 +415,7 @@
       "beforeDiscount": 0,
       "discountPercentage": 0,
       "price": 415,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "Apple iPhone 11 Pro, US Version",
       "stock": 21,
       "img": "https://i.imgur.com/XNXBmSU.jpg"
@@ -427,7 +427,7 @@
       "beforeDiscount": 0,
       "discountPercentage": 0,
       "price": 500,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "HP 2022 Newest 14\" FHD Laptop",
       "stock": 21,
       "img": "https://i.imgur.com/tjiJGUo.jpg"
@@ -439,7 +439,7 @@
       "beforeDiscount": 0,
       "discountPercentage": 0,
       "price": 690,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "Samsung Electronics Galaxy Chromebook 2, 13.3",
       "stock": 21,
       "img": "https://i.imgur.com/LNqbBdo.jpg"
@@ -451,7 +451,7 @@
       "beforeDiscount": 900,
       "discountPercentage": 22,
       "price": 700,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "Acer Nitro 5 AN515-58-57Y8",
       "stock": 21,
       "img": "https://i.imgur.com/tLP7BxU.jpg"
@@ -463,7 +463,7 @@
       "beforeDiscount": 1000,
       "discountPercentage": 30,
       "price": 700,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "LG UltraPC 16U70R-K.AAS7U1 Thin and Lightweight Laptop",
       "stock": 21,
       "img": "https://i.imgur.com/d3nwi33.jpg"
@@ -475,7 +475,7 @@
       "beforeDiscount": 0,
       "discountPercentage": 0,
       "price": 780,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "HP Victus 15.6\" 144Hz FHD IPS Premium Gaming Laptop",
       "stock": 21,
       "img": "https://i.imgur.com/5gSH5cR.jpg"
@@ -483,7 +483,7 @@
     {
       "id": 41,
       "category": "phones",
-      "brand": "hp",
+      "brand": "samsung",
       "beforeDiscount": 1019,
       "discountPercentage": 21,
       "price": 799,
@@ -499,7 +499,7 @@
       "beforeDiscount": 1031,
       "discountPercentage": 17,
       "price": 860,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "SAMSUNG 15.6 Galaxy Book3",
       "stock": 21,
       "img": "https://i.imgur.com/ENTl1qS.jpg"
@@ -511,7 +511,7 @@
       "beforeDiscount": 0,
       "discountPercentage": 0,
       "price": 900,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "Acer Swift 3 OLED Intel Evo Thin & Light Laptop | 14",
       "stock": 21,
       "img": "https://i.imgur.com/iijx2PO.jpg"
@@ -523,7 +523,7 @@
       "beforeDiscount": 1200,
       "discountPercentage": 25,
       "price": 900,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "LG gram (2022) Laptop 16Z90Q 16",
       "stock": 21,
       "img": "https://i.imgur.com/AiEm2Vv.jpg"
@@ -535,7 +535,7 @@
       "beforeDiscount": 1000,
       "discountPercentage": 10,
       "price": 900,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "SAMSUNG Galaxy Z Flip 5 Cell Phone",
       "stock": 21,
       "img": "https://i.imgur.com/CAIdWYf.jpg"
@@ -559,7 +559,7 @@
       "beforeDiscount": 0,
       "discountPercentage": 0,
       "price": 1100,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "HP 2023 Envy x360 Laptop",
       "stock": 21,
       "img": "https://i.imgur.com/DDcN4dO.jpg"
@@ -571,7 +571,7 @@
       "beforeDiscount": 1600,
       "discountPercentage": 25,
       "price": 1200,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "MSI Katana 15 15.6 144Hz FHD",
       "stock": 21,
       "img": "https://i.imgur.com/FqJJezJ.jpg"
@@ -583,7 +583,7 @@
       "beforeDiscount": 1450,
       "discountPercentage": 12,
       "price": 1282,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "SAMSUNG 15.6” Galaxy Book2 Pro",
       "stock": 21,
       "img": "https://i.imgur.com/pwckmKb.jpg"
@@ -595,7 +595,7 @@
       "beforeDiscount": 0,
       "discountPercentage": 0,
       "price": 1300,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "DELL 2023 Upgraded Inspiron 16 Plus Laptop",
       "stock": 21,
       "img": "https://i.imgur.com/1jiDPg6.jpg"
@@ -607,7 +607,7 @@
       "beforeDiscount": 1750,
       "discountPercentage": 21,
       "price": 1385,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "SAMSUNG 16” Galaxy Book3 Pro",
       "stock": 21,
       "img": "https://i.imgur.com/2iJ62Ti.jpg"
@@ -631,7 +631,7 @@
       "beforeDiscount": 1800,
       "discountPercentage": 17,
       "price": 1500,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "SAMSUNG Galaxy Z Fold 5 Cell Phone",
       "stock": 21,
       "img": "https://i.imgur.com/jqoLcKx.jpg"
@@ -643,7 +643,7 @@
       "beforeDiscount": 2500,
       "discountPercentage": 28,
       "price": 1800,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "ASUS ZenBook Pro Duo 15 UX582 Laptop, 15.6",
       "stock": 21,
       "img": "https://i.imgur.com/0ntIYUf.jpg"
@@ -739,7 +739,7 @@
       "beforeDiscount": 0,
       "discountPercentage": 0,
       "price": 5299,
-      "currency": "USD",
+      "currency": "GEL",
       "title": "Apple MacBook Pro 16.2",
       "stock": 21,
       "img": "https://i.imgur.com/ATXPb6H.jpg"
@@ -815,6 +815,211 @@
       "title": "Asus ROG Zephyrus Duo 16 (2023) (GX650PI-N4019W) - Black",
       "stock": 21,
       "img": "https://alta.ge/images/thumbnails/270/250/detailed/289/1_i30d-lr.png.jpg"
+    },
+    {
+      "id": 69,
+      "category": "phones",
+      "brand": "oneplus",
+      "beforeDiscount": 2100,
+      "discountPercentage": 2,
+      "price": 1849,
+      "currency": "GEL",
+      "title": "OnePlus 10T 5G (8GB/128GB) Dual sim - Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/264/1_vfiq-v5.png.jpg"
+    },
+    {
+      "id": 70,
+      "category": "phones",
+      "brand": "oneplus",
+      "beforeDiscount": 0,
+      "discountPercentage": 0,
+      "price": 799,
+      "currency": "GEL",
+      "title": "OnePlus Nord CE 2 5G (8GB/128GB) Dual sim - Blue",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/264/1_oiq4-pj.png.jpg"
+    },
+    {
+      "id": 71,
+      "category": "phones",
+      "brand": "xiaomi",
+      "beforeDiscount": 2499,
+      "discountPercentage": 2,
+      "price": 2299,
+      "currency": "GEL",
+      "title": "Xiaomi 14 (12GB/512GB) Dual Sim 5G - Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/321/151040__1_.png.jpg"
+    },
+    {
+      "id": 72,
+      "category": "phones",
+      "brand": "xiaomi",
+      "beforeDiscount": 0,
+      "discountPercentage": 0,
+      "price": 1349,
+      "currency": "GEL",
+      "title": "Xiaomi 13T Global version (12GB/256GB) - Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/306/m12_m12a_black_back_.png.jpg"
+    },
+    {
+      "id": 73,
+      "category": "phones",
+      "brand": "xiaomi",
+      "beforeDiscount": 0,
+      "discountPercentage": 0,
+      "price": 1129,
+      "currency": "GEL",
+      "title": "Xiaomi Redmi Note 13 Pro+ (8GB/256GB) 5G - Midnight Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/316/149646__1_.png.jpg"
+    },
+    {
+      "id": 74,
+      "category": "phones",
+      "brand": "xiaomi",
+      "beforeDiscount": 0,
+      "discountPercentage": 0,
+      "price": 1079,
+      "currency": "GEL",
+      "title": "Xiaomi POCO X6 Pro (12GB/512GB) Dual Sim 5G - Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/317/149658__1__fwae-jd.png.jpg"
+    },
+    {
+      "id": 75,
+      "category": "phones",
+      "brand": "xiaomi",
+      "beforeDiscount": 0,
+      "discountPercentage": 0,
+      "price": 529,
+      "currency": "GEL",
+      "title": "Xiaomi Redmi Note 12S (8GB/256GB) Dual Sim LTE - Blue",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/305/download_xrst-c7.png.jpg"
+    },
+    {
+      "id": 76,
+      "category": "phones",
+      "brand": "honor",
+      "beforeDiscount": 1299,
+      "discountPercentage": 1,
+      "price": 1199,
+      "currency": "GEL",
+      "title": "Honor 90 (12GB/512GB) Dual Sim LTE Midnight Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/301/1_qr4w-ly.jpg.jpg"
+    },
+    {
+      "id": 77,
+      "category": "phones",
+      "brand": "honor",
+      "beforeDiscount": 1399,
+      "discountPercentage": 3,
+      "price": 899,
+      "currency": "GEL",
+      "title": "Honor 70 (8GB/256GB) Dual Sim LTE - Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/263/1b_cd74-8m.png.jpg"
+    },
+    {
+      "id": 78,
+      "category": "phones",
+      "brand": "honor",
+      "beforeDiscount": 0,
+      "discountPercentage": 0,
+      "price": 899,
+      "currency": "GEL",
+      "title": "Honor X9b (12GB/256GB) Dual Sim Midnight Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/308/honor-x9b-5g-12256gb-midnight-black_654884f569be2.png.jpg"
+    },
+    {
+      "id": 79,
+      "category": "phones",
+      "brand": "honor",
+      "beforeDiscount": 899,
+      "discountPercentage": 2,
+      "price": 699 ,
+      "currency": "GEL",
+      "title": "Honor X9a (8GB/256GB) Dual Sim Midnight Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/296/1_nwgw-wq.png.jpg"
+    },
+    {
+      "id": 80,
+      "category": "phones",
+      "brand": "honor",
+      "beforeDiscount": 0,
+      "discountPercentage": 0,
+      "price": 469 ,
+      "currency": "GEL",
+      "title": "Honor X7a Plus (6GB/128GB) Dual Sim Midnight Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/296/1_58qz-51.png.jpg"
+    },
+    {
+      "id": 81,
+      "category": "monitor",
+      "brand": "hp",
+      "beforeDiscount": 0,
+      "discountPercentage": 0,
+      "price": 1499  ,
+      "currency": "GEL",
+      "title": "HP OMEN 34 Curved (780K8E9) - Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/325/149586-1.png.jpg"
+    },
+    {
+      "id": 82,
+      "category": "monitor",
+      "brand": "hp",
+      "beforeDiscount": 0,
+      "discountPercentage": 0,
+      "price": 649,
+      "currency": "GEL",
+      "title": "HP OMEN 23.8 (780D9E9) - Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/325/149585-1.png.jpg"
+    },
+    {
+      "id": 83,
+      "category": "monitor",
+      "brand": "hp",
+      "beforeDiscount": 0,
+      "discountPercentage": 0,
+      "price": 1149,
+      "currency": "GEL",
+      "title": "HP OMEN 31.5 Curved (780K6E9) - Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/325/151023-1.png.jpg"
+    },
+    {
+      "id": 84,
+      "category": "monitor",
+      "brand": "hp",
+      "beforeDiscount": 0,
+      "discountPercentage": 0,
+      "price": 799,
+      "currency": "GEL",
+      "title": "HP OMEN 27 (780F9E9) - Black",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/325/151024-1.png.jpg"
+    },
+    {
+      "id": 85,
+      "category": "monitor",
+      "brand": "lg",
+      "beforeDiscount": 0,
+      "discountPercentage": 0,
+      "price": 1399,
+      "currency": "GEL",
+      "title": "LG 32 32UN650-W UltraFine",
+      "stock": 21,
+      "img": "https://alta.ge/images/thumbnails/270/250/detailed/279/1_4aqz-pq.png.jpg"
     }
+    
   ]
 }
